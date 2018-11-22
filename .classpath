@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="HibDemo_Collection_Insertion/src"/>
+	<classpathentry kind="src" path="HibDemo_criteria/src"/>
+	<classpathentry kind="src" path="HibDemo_Inheritance_Collection2/src"/>
+	<classpathentry kind="src" path="HibDemo_Inheritance_SingleTable1/src"/>
+	<classpathentry kind="src" path="HibDemo1/src"/>
+	<classpathentry kind="src" path="HibDemo2/src"/>
+	<classpathentry kind="src" path="HibDemo4/src"/>
+	<classpathentry kind="src" path="HibDemoHQL_NamedQuery/src"/>
+	<classpathentry kind="src" path="HibDemoHQL/src"/>
+	<classpathentry kind="src" path="HibDemoRelation121_bi/src"/>
+	<classpathentry kind="src" path="HibDemoRelation121/src"/>
+	<classpathentry kind="src" path="HibDemoRelation12M/src"/>
+	<classpathentry kind="src" path="HibDemoRelationAssociation/src"/>
+	<classpathentry kind="src" path="Hibernate_All_Mapping_Demo/src"/>
+	<classpathentry kind="src" path="HibernateDemo1/src"/>
+	<classpathentry kind="src" path="HibernaterelationOneToOne/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="HibDemo1/bin"/>
+</classpath>
